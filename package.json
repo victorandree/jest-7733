@@ -1,0 +1,9 @@
+{
+  "name": "jest-projects",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
