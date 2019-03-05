@@ -1,6 +1,6 @@
 # Reproduction of [#7733][issue]
 
-This repository demonstrates that jest does not respect `projects` in the root level `jest.config.js`, but runs "on its own". Run on node v11.6.0.
+This repository demonstrates that jest does not respect `projects` in the root level `jest.config.js`, but runs "on its own". Run on node v11.10.1.
 
 ## Steps to reproduce
 
